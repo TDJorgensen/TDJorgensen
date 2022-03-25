@@ -3,7 +3,7 @@
 ### Menu
 
 - [About me]({% link /docs/about.md %})
-- [Workshops]({% link/docs/workshops.md %})
+- [Workshops]({% link /docs/workshops.md %})
 
 
 
