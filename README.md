@@ -10,5 +10,5 @@ I am an assistant professor of methods and statistics within the [Department of 
 
 I use GitHub to maintain two R packages (`semTools` and `simsem`) and contribute to two other R packages (`lavaan` and `blavaan`), which are all devoted to SEM in R. 
 
-I frequently teach workshops about how to use these software packages, for which I host materials here.
+I frequently teach workshops about how to use these software packages, for which I host materials here, copyrighted under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
