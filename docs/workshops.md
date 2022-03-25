@@ -42,3 +42,5 @@ I have taught variations of this workshop for:
 - the Junior Researchers ([JURE](https://www.earli.org/jure)) of the European Association for Research on Learning and Instruction ([EARLI](https://www.earli.org/)) conference in July 2018
 
 
+[back](index.md)
+
