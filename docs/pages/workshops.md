@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Workshops and Short Courses"
-permalink: /workshops/
 ---
 
 
