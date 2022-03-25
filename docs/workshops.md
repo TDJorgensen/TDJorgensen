@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Workshops and Short Courses"
 permalink: /workshops/
-
+---
 
 
 <!-- List of workshops to link students to materials -->
