@@ -2,8 +2,8 @@
 
 ## Menu
 
-- [About me]({% link about.md %})
-- [Workshops]({% link workshops.md %})
+- [About me](about.md)
+- [Workshops](workshops.md)
 
 
 
