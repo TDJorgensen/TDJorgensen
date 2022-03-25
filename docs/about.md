@@ -4,7 +4,7 @@ title: "About Terrence D. Jorgensen"
 permalink: /about/
 ---
 
-I am an idiot [assistant professor](http://www.uva.nl/profile/t.d.jorgensen) of methods and statistics within the [Department of Child Development and Education](https://cde.uva.nl/) at the [University of Amsterdam](http://uva.nl/).  My areas of expertise primarily involve structural equation modeling (SEM), multilevel modeling, nonparametric methods, and modern missing data methods.  My methodological research interests include:
+I am an [assistant professor](http://www.uva.nl/profile/t.d.jorgensen) of methods and statistics within the [Department of Child Development and Education](https://cde.uva.nl/) at the [University of Amsterdam](http://uva.nl/).  My areas of expertise primarily involve structural equation modeling (SEM), multilevel modeling, nonparametric methods, and modern missing data methods.  My methodological research interests include:
 
 - psychometrics, e.g., testing measurement equivalence and detecting differential item functioning (DIF)
 - resampling methods (permutation, bootstrap, Monte Carlo simulation)
