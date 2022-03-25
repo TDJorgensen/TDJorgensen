@@ -22,7 +22,7 @@ I will teach this [post-conference workshop](https://multilevel.fss.uu.nl/course
 
 ## Measurement Invariance with Categorical Indicators
 
-I have taught this workshop for:
+I have taught this workshop ([link to PDF](CatMeasEq/Jorgensen.CatMeasEq.pdf)) for:
 
 - [Vanderbilt University](https://www.vanderbilt.edu)'s [Quantitative Methods Colloquium](https://www.vanderbilt.edu/psychological_sciences/graduate/programs/quantitative-methods/colloquium.php) in February 2019
 - [Charité – Universitätsmedizin Berlin](https://www.charite.de/en/)'s research group on [Patient Centered Outcomes Research](http://patient-centered-outcomes-research.org/) in February 2022
