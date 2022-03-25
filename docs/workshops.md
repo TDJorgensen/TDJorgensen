@@ -3,9 +3,11 @@ layout: default
 title: "Workshops and Short Courses"
 ---
 
-[back](index.md)
+[Return to top menu](index.md)
 
 <!-- List of workshops to link students to materials -->
+
+# Workshops and Short Courses
 
 ## Structural Equation Modeling
 
@@ -42,5 +44,5 @@ I have taught variations of this workshop for:
 - the Junior Researchers ([JURE](https://www.earli.org/jure)) of the European Association for Research on Learning and Instruction ([EARLI](https://www.earli.org/)) conference in July 2018
 
 
-[back](index.md)
+[Return to top menu](index.md)
 
