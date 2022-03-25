@@ -1,3 +1,9 @@
 theme: jekyll-theme-merlot
 title: Terrence D. Jorgensen's homepage
 description: Find links to my teaching materials, publications, and software
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
