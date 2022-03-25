@@ -2,12 +2,10 @@
 permalink: /
 ---
 
-## Terrence D. Jorgensen
+## Menu
 
-### Menu
-
-- [About me]({% link pages/about.md %})
-- [Workshops]({% link pages/workshops.md %})
+- [About me]({% link TDJorgensen/pages/about.md %})
+- [Workshops]({% link TDJorgensen/pages/workshops.md %})
 
 
 
