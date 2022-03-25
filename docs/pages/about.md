@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About Terrence D. Jorgensen"
-permalink: /about/
 ---
 
 Terrence D. Jorgensen ([faculty page](http://www.uva.nl/profile/t.d.jorgensen)) is an assistant professor of methods and statistics within the [Department of Child Development and Education](https://cde.uva.nl/) at the [University of Amsterdam](http://uva.nl/).  His areas of expertise primarily involve structural equation modeling (SEM), multilevel modeling, nonparametric methods, and modern missing data methods.  His methodological research interests include:
