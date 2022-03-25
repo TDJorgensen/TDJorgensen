@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: "Workshops and Short Courses"
 ---
 
+[back](index.md)
 
 <!-- List of workshops to link students to materials -->
 
