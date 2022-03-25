@@ -4,8 +4,8 @@ permalink: /
 
 ## Menu
 
-- [About me]({% link TDJorgensen/pages/about.md %})
-- [Workshops]({% link TDJorgensen/pages/workshops.md %})
+- [About me]({% link /pages/about.md %})
+- [Workshops]({% link /pages/workshops.md %})
 
 
 
